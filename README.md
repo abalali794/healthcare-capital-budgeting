@@ -31,7 +31,7 @@ The workbook is built to show how operational assumptions flow into financial pe
 
 ## Executive Summary & Takeaways
 
-![Project Dashboard](images/dashboard.png)
+![Project Dashboard](images/dashboard1.png)
 
 Under the base case, the proposed ASC with 2 robotic systems appears financially supportable, generating a positive NPV of $5.6M while reaching $109.7M in Year 5 revenue and $59.7M in Year 5 EBITDA, equivalent to a 54.5% EBITDA margin. Volume ramps from 3,000 cases in Year 1 to 6,922 in Year 5 and 8,025 by Year 10, showing strong operating leverage as the center matures. **The investment case is** **attractive**, **but value is highly sensitive to early ramp execution and payer mix**: a Fast Ramp improves NPV to $11.6M, a Slow Ramp turns NPV negative at ($2.4M), a High Commercial Mix increases NPV significantly to $46.8M, and a Medicare Shift reduces NPV to $4.5M. Overall, the project merits consideration, but approval should be tied to confidence in referral capture, physician alignment, and commercial reimbursement strength, since those are the main drivers of upside and downside.
 
