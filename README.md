@@ -60,12 +60,12 @@ In other words, this is not simply a “build it and they will come” project. 
 
 Under the **Base Case** shown in the model:
 
-- **NPV:** $6.46M  
-- **Year 5 Revenue:** $125.8M  
-- **Year 5 EBITDA:** $72.3M  
-- **Year 5 EBITDA Margin:** 57.52%  
-- **Year 5 Delivered Cases:** 7,066  
-- **Year 5 Robotic Cases:** 1,784  
+- **NPV:** $5.59M
+- **Year 5 Revenue:** $109.7M
+- **Year 5 EBITDA:** $59.7M
+- **Year 5 EBITDA Margin:** 54.47%
+- **Year 5 Delivered Cases:** 6,922
+- **Year 5 Robotic Cases:** 1,748
 
 These results suggest that the project is financially attractive under the selected assumptions, while still allowing room for sensitivity testing under alternative scenarios.
 
