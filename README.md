@@ -121,7 +121,7 @@ Depreciation is modeled at approximately **$1.79M annually**, with:
 - **Y10 Delivered Cases:** 8,025  
 
 ### Capacity Insight
-By Year 10, the center reaches roughly **98% of modeled practical capacity** (8,025 delivered cases vs. 8,160 available capacity). That tells us that long-term upside may eventually require either **throughput improvement**, **schedule extension**, or **incremental capacity investment**
+By Year 10, the center reaches roughly **98% of modeled practical capacity** (8,025 delivered cases vs. 8,160 available capacity). That tells us that long-term upside may eventually require either throughput improvement, schedule extension, or incremental capacity investment
 
 ---
 
