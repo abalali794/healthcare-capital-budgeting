@@ -3,7 +3,7 @@
 
 ![Project Cover Page](images/cover-page.png)
 
-This project is an Excel-based capital budgeting and financial modeling case for the development of a new **Ambulatory Surgery Center (ASC)** with **2 robotic systems**. The model evaluates whether the investment is financially attractive by projecting **volume ramp, revenue, operating expenses, profitability, free cash flow, and discounted cash flow valuation** over a 10-year period.
+This project is a capital budgeting and financial modeling case for the development of a new **Ambulatory Surgery Center (ASC)** with **2 robotic systems**. The model evaluates whether the investment is financially attractive by projecting **volume ramp, revenue, operating expenses, profitability, free cash flow, and discounted cash flow valuation** over a 10-year period.
 
 The goal of this project is to demonstrate practical healthcare finance modeling skills in a real-world provider setting, combining **capital planning, operational assumptions, reimbursement logic, scenario analysis, and valuation** in one integrated model.
 
@@ -33,7 +33,7 @@ The workbook is built to show how operational assumptions flow into financial pe
 
 ![Project Dashboard](images/dashboard1.png)
 
-Under the base case, the proposed ASC with 2 robotic systems appears financially supportable, generating a positive NPV of $5.6M while reaching $109.7M in Year 5 revenue and $59.7M in Year 5 EBITDA, equivalent to a 54.5% EBITDA margin. Volume ramps from 3,000 cases in Year 1 to 6,922 in Year 5 and 8,025 by Year 10, showing strong operating leverage as the center matures. **The investment case is** **attractive**, **but value is highly sensitive to early ramp execution and payer mix**: a Fast Ramp improves NPV to $11.6M, a Slow Ramp turns NPV negative at ($2.4M), a High Commercial Mix increases NPV significantly to $46.8M, and a Medicare Shift reduces NPV to $4.5M. Overall, the project merits consideration, but approval should be tied to confidence in referral capture, physician alignment, and commercial reimbursement strength, since those are the main drivers of upside and downside.
+Under the base case, the proposed ASC with 2 robotic systems appears financially supportable, generating a positive NPV of $5.6M while reaching $109.7M in Year 5 revenue and $59.7M in Year 5 EBITDA, equivalent to a 54.5% EBITDA margin. Volume ramps from 3,000 cases in Year 1 to 6,922 in Year 5 and 8,025 by Year 10, showing strong operating leverage as the center matures. **The investment case is attractive, but value is highly sensitive to early ramp execution and payer mix**. A fast ramp improves NPV to $11.6M, a Slow Ramp turns NPV negative at ($2.4M), a High Commercial Mix increases NPV significantly to $46.8M, and a Medicare Shift reduces NPV to $4.5M. Overall, the project merits consideration, but approval should be tied to confidence in referral capture, physician alignment, and commercial reimbursement strength, since those are the main drivers of upside and downside.
 
 * **Three facts stand out:**
 
@@ -121,12 +121,7 @@ Depreciation is modeled at approximately **$1.79M annually**, with:
 - **Y10 Delivered Cases:** 8,025  
 
 ### Capacity Insight
-By Year 10, the center reaches roughly **98% of modeled practical capacity** (8,025 delivered cases vs. 8,160 available capacity). That tells us two important things:
-
-- The model is not assuming unrealistic infinite growth
-- Long-term upside may eventually require either **throughput improvement**, **schedule extension**, or **incremental capacity investment**
-
-This is important strategically. The model does not only answer whether to build the ASC — it also shows that a successful launch may create a future expansion question.
+By Year 10, the center reaches roughly **98% of modeled practical capacity** (8,025 delivered cases vs. 8,160 available capacity). That tells us that long-term upside may eventually require either **throughput improvement**, **schedule extension**, or **incremental capacity investment**
 
 ---
 
@@ -147,13 +142,6 @@ The model applies a **payer-weighted reimbursement framework** using Medicare ba
 - **Y3 Revenue:** $97.4M  
 - **Y5 Revenue:** $109.7M  
 - **Y10 Revenue:** $147.4M  
-
-### Insight
-Revenue growth is driven by two forces:
-1. **Volume ramp in early years**
-2. **Annual reimbursement and demand growth in later years**
-
-The shape of the revenue curve is important. Growth is steep in Years 1–3, then moderates. That is the pattern you would expect in a realistic de novo facility model: early activation effect first, then mature-state compounding later.
 
 ---
 
@@ -188,7 +176,7 @@ The model separates costs into **variable** and **fixed** categories.
 - **Y5:** $49.9M
 - **Y10:** $65.4M
 
-The cost structure explains why margins expand so dramatically after launch. In Year 1, revenue is still building while the organization is already carrying substantial fixed staffing and infrastructure costs. But once cases ramp, the fixed-cost base is spread across a much larger revenue stream. That creates major operating leverage.This means that the downside risk is mainly in the early years while upside accelerates once fixed costs are absorbed
+The cost structure explains why margins expand so dramatically after launch. In Year 1, revenue is still building while the organization is already carrying substantial fixed staffing and infrastructure costs. But once cases ramp, the fixed-cost base is spread across a much larger revenue stream. That creates major operating leverage. This means that the downside risk is mainly in the early years while upside accelerates once fixed costs are absorbed
 
 ---
 
